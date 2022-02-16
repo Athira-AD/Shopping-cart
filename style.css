@@ -1,0 +1,26 @@
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+
+.submenu {
+  position: relative;
+}
+
+.submenu #shopping-cart{
+  display: none;
+}
+.submenu:hover #shopping-cart{
+  display: block;
+  position: absolute;
+  right:0;
+  top:100%;
+  z-index: 1;
+  background-color: white;
+  padding: 20px;
+  min-height: 400px;
+  min-width: 300px;
+}
+.card {
+  text-align: center;
+  border: 1px solid #e1e1e1;
+  background: white;
+}
