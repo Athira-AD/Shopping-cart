@@ -2,15 +2,22 @@
 
 Technical test coding challenge
 
-INSTRUCTIONS
+INSTRUCTIONS(Requirements)
+Have a pre-populated (hard coded) array of objects as products.
+Your product display should have (not limited to) product image, product name, product price
+All products should be displayed when the page loads
+Using an ‘add to cart’ button, the user should be able to add the products to a shopping cart list
+The shopping cart lists all products and displays a the total price
 
-####Setup instructions:
+Stretch Goals
 
-Click here to view github page
-####Technologies used:
+The user should also be able to delete the products from the cart, thus modifying the total price of the cart
+The user should be able to enter a quantity for each product
+
+
+Technologies used:
 
 HTML
 CSS
-Bootstrap
 Javascript
-https://www.section.io/engineering-education/javascript-shopping-cart-using-arrays-and-objects/
+
